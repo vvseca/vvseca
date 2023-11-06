@@ -1,4 +1,8 @@
-### BSc - Macewan University 
+# vvseca
+---
+- 🔱 2nd Year BSc - Macewan University
+
+
 
 <!---
 vvseca/vvseca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
